@@ -4,7 +4,7 @@
 
 以溝通目的為主分類；下方亦可依細部目的、場景、對象與語氣查找。
 
-共 2 筆：2 筆示例、0 筆討論收錄。日期是來源參考，不作分類。
+共 4 筆：2 筆示例、2 筆討論收錄。日期是來源參考，不作分類。
 
 ## 依溝通目的
 
@@ -12,7 +12,9 @@
 
 答應、妥協、暫時採納或勉強接受。
 
-尚待收錄。
+| 情境 | 場景 | 對象 | 狀態 | 原討論日 | 首次收錄 |
+| --- | --- | --- | --- | --- | --- |
+| [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md) | 線上聊天、約飯 | 熟人 | 已收錄 | 2026-10-26 | 2026-10-26 |
 
 ### 拒絕與婉謝
 
@@ -26,6 +28,7 @@
 
 | 情境 | 場景 | 對象 | 狀態 | 原討論日 | 首次收錄 |
 | --- | --- | --- | --- | --- | --- |
+| [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md) | 用餐、線上聊天 | 熟人 | 已收錄 | 2026-10-26 | 2026-10-26 |
 | [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md) | 用餐 | 朋友 | 示例 | 未知 | 2026-10-26 |
 | [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md) | 作客 | 朋友 | 示例 | 未知 | 2026-10-26 |
 
@@ -79,12 +82,25 @@
 
 ### 保留評價
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
 
 ### 勉強認可
 
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
+
+### 接受邀約
+
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
+
+### 敲定時間
+
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
+
+### 表達失望
+
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 
 ## 依場景
 
@@ -94,7 +110,17 @@
 
 ### 用餐
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
+
+### 約飯
+
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
+
+### 線上聊天
+
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
 
 ## 依對象
 
@@ -103,27 +129,47 @@
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
 
+### 熟人
+
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
+
 ## 依語氣
+
+### 俐落
+
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
 
 ### 冷淡
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
 
 ### 含蓄
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
 
 ### 溫和
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
+
+### 溫雅
+
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
 
 ### 無奈
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
 
 ### 調侃
 
+- [吃過才發現餐點不如預期](entries/appraisal/meal-below-expectations.md)
 - [朋友推薦的餐廳普通，但不想掃興](entries/appraisal/ordinary-restaurant.md)
 - [椅子不太舒服，但還坐得下去](entries/appraisal/ordinary-chair.md)
+- [約好中午十二點見面，簡短定約](entries/acceptance/noon-meeting-confirmation.md)
