@@ -1,0 +1,12 @@
+{
+  "acceptance": {"name": "接受與讓步", "description": "答應、妥協、暫時採納或勉強接受。"},
+  "refusal": {"name": "拒絕與婉謝", "description": "拒絕邀請、提議、請求或好意。"},
+  "appraisal": {"name": "評價與讚賞", "description": "表達滿意、普通、失望、欣賞或不以為然。"},
+  "gratitude": {"name": "感謝與回禮", "description": "表達謝意、領情或回應他人的付出。"},
+  "support": {"name": "安慰與鼓勵", "description": "接住情緒、支持對方或替對方打氣。"},
+  "disagreement": {"name": "異議與澄清", "description": "提出不同看法、反駁或釐清誤會。"},
+  "boundaries": {"name": "界線與提醒", "description": "表明底線、提醒分寸或要求停止某種行為。"},
+  "requests": {"name": "請求與協商", "description": "開口求助、提出條件、邀請或討論安排。"},
+  "connection": {"name": "關心與親近", "description": "問候、關心、表達想念或拉近距離。"},
+  "repair": {"name": "致歉與圓場", "description": "承認疏失、緩和尷尬或修補關係。"}
+}
